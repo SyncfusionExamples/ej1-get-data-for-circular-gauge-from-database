@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <RootItem Text="Essential Grid Web" Expanded="True" Url="#">
+    <Item Text="Binary Price : $595.00" Url="#"></Item>
+    <Item Text="Source Price : $995.00" Url="#"></Item>
+  </RootItem>
+
+  <RootItem Text="Essential Tools Web" Expanded="True" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+
+  <RootItem Text="Essential Chart Web" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+
+  <RootItem Text="Essential Diagram Web" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+
+  <RootItem Text="Essential Tools MVC" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+  <RootItem Text="Essential Grid MVC" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+  <RootItem Text="Essential Chart MVC" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+  <RootItem Text="Essential Diagram MVC" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+  <RootItem Text="Essential Tools JS" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+  <RootItem Text="Essential Grid JS" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+  <RootItem Text="Essential Chart JS" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+  <RootItem Text="Essential Diagram JS" Url="#">
+    <Item Text="Binary Price : $495.00" Url="#"></Item>
+    <Item Text="Source Price : $895.00" Url="#"></Item>
+  </RootItem>
+
+</Items>
